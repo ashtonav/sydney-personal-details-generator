@@ -43,5 +43,5 @@ public class CsvWriterTests
             File.Delete(fileName);
         }
     }
-    
+
 }

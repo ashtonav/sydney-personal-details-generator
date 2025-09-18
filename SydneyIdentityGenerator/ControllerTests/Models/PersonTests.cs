@@ -125,5 +125,5 @@ public class PersonTests
 
 public class PersonToTest : Person
 {
-    
+
 }
