@@ -8,6 +8,7 @@ using System.IO;
 using System.Threading.Tasks;
 
 namespace Controller;
+
 public class Helper
 {
     public static IPersonNameGenerator NameGenerator { get; set; } = new PersonNameGenerator();
